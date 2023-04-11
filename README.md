@@ -9,7 +9,7 @@ https://github.com/TayMcKenzieNZ
 info.
 This clothing pack was tested on gamebuild mpchristmas3 aka 2802 with the understanding that there are about 14 additional free .ymt slots to be used
 
-If for whatever reason you crash using this pack, please read here and perhaps consider downgrading your gamebuild until Rockstar Games increases the YMT limits 3 on/for future DLCs.
+If for whatever reason you crash using this pack, please read here and perhaps consider downgrading your gamebuild until Rockstar Games increases the https://tinyurl.com/499ad2zn 3 on/for future DLCs.
 
 ![FiveM® by Cfx re - Crimson Roleplay 11_04_2023 07_19_45 (2)](https://user-images.githubusercontent.com/110393030/231083744-66bdb2f6-b52f-48fc-8636-0a3a71d5f42a.png)
 ![FiveM® by Cfx re - Crimson Roleplay 11_04_2023 07_19_56 (2)](https://user-images.githubusercontent.com/110393030/231083749-5def32cb-5eb6-4439-ba8e-12dd7f27c6e1.png)
